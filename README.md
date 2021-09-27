@@ -1,8 +1,7 @@
 # 资治通鉴
 
-<font size=4px color="#009090">
-<font size=4px>
-		<font size=4px color="red">译：　十二月，振威护军萧敬文杀掉了征虏将军杨谦，攻打涪城，攻了下来，自称益州牧。占据了巴西，直达汉中。</font>
-
-<font size=4px color="#FF8000">臣光
-<font color="#00FF"  size=4px> 章
+“<font size=4px color="#009090">” == 胡三省注释样式
+“<font size=4px>” == 正文样式
+“<font size=4px color="red">译：</font>” ==白话文样式
+“<font size=4px color="#FF8000">” == 臣光曰样式
+“<font color="#00FF"  size=4px>” == 章样式
