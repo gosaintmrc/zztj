@@ -14,3 +14,7 @@
 
 [**資治通鑑卷第一卷-周纪一**](https://github.com/gosaintmrc/zztj/blob/main/1-%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E5%8D%B7%E7%AC%AC%E4%B8%80%E5%8D%B7-%E5%91%A8%E7%BA%AA%E4%B8%80.md)
 
+[**資治通鑑卷第二卷-周纪二**](https://github.com/gosaintmrc/zztj/blob/main/2-%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E5%8D%B7%E7%AC%AC%E4%BA%8C%E5%8D%B7-%E5%91%A8%E7%BA%AA%E4%BA%8C.md)
+
+[**資治通鑑卷第三卷-周纪三**](https://github.com/gosaintmrc/zztj/blob/main/3-%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E5%8D%B7%E7%AC%AC%E4%B8%89%E5%8D%B7-%E5%91%A8%E7%BA%AA%E4%B8%89.md)
+
