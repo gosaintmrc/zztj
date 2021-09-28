@@ -1,4 +1,6 @@
 # 资治通鉴
+
+## 标注规范
 ```html
 <font size=4px color="#009090">  胡三省注释样式
 <font size=4px>  正文样式
