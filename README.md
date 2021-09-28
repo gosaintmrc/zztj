@@ -18,3 +18,5 @@
 
 [**資治通鑑卷第三卷-周纪三**](https://github.com/gosaintmrc/zztj/blob/main/3-%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E5%8D%B7%E7%AC%AC%E4%B8%89%E5%8D%B7-%E5%91%A8%E7%BA%AA%E4%B8%89.md)
 
+[**資治通鑑卷第二九四卷-后周五**](https://github.com/gosaintmrc/zztj/blob/main/294-%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4%E7%AC%AC%E4%BA%8C%E7%99%BE%E4%B9%9D%E5%8D%81%E5%9B%9B%E5%8D%B7-%E5%90%8E%E5%91%A8%E7%BA%AA%E4%BA%94.md)
+
