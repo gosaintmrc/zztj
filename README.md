@@ -22,3 +22,8 @@
 
 [**資治通鑑卷第二九四卷-后周五**](https://github.com/gosaintmrc/zztj/blob/main/294-%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4%E7%AC%AC%E4%BA%8C%E7%99%BE%E4%B9%9D%E5%8D%81%E5%9B%9B%E5%8D%B7-%E5%90%8E%E5%91%A8%E7%BA%AA%E4%BA%94.md)
 
+[**資治通鑑卷第二百七十八卷-后唐纪七**](https://github.com/gosaintmrc/zztj/blob/main/278-%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4%E7%AC%AC%E4%BA%8C%E7%99%BE%E4%B8%83%E5%8D%81%E5%85%AB%E5%8D%B7-%E5%90%8E%E5%94%90%E7%BA%AA%E4%B8%83.md)
+
+## 翻译参考
+
+https://github.com/JY0284/zizhitongjian
