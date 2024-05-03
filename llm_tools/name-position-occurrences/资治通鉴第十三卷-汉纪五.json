@@ -1,0 +1,197 @@
+[
+    {
+        "name": "高皇后",
+        "occurrences": 3,
+        "position": "皇后"
+    },
+    {
+        "name": "陵",
+        "occurrences": 1,
+        "position": "右丞相"
+    },
+    {
+        "name": "平",
+        "occurrences": 2,
+        "position": "左丞相"
+    },
+    {
+        "name": "勃",
+        "occurrences": 2,
+        "position": "太尉"
+    },
+    {
+        "name": "食其",
+        "occurrences": 1,
+        "position": "左丞相"
+    },
+    {
+        "name": "敖",
+        "occurrences": 1,
+        "position": "御史大夫"
+    },
+    {
+        "name": "台",
+        "occurrences": 2,
+        "position": "吕王"
+    },
+    {
+        "name": "朝",
+        "occurrences": 1,
+        "position": "轵侯"
+    },
+    {
+        "name": "窋",
+        "occurrences": 2,
+        "position": "平阳侯、御史大夫"
+    },
+    {
+        "name": "佗",
+        "occurrences": 4,
+        "position": "南越王"
+    },
+    {
+        "name": "章",
+        "occurrences": 3,
+        "position": "朱虚侯"
+    },
+    {
+        "name": "兴居",
+        "occurrences": 2,
+        "position": "东牟侯"
+    },
+    {
+        "name": "灶",
+        "occurrences": 1,
+        "position": "隆虑侯"
+    },
+    {
+        "name": "通",
+        "occurrences": 1,
+        "position": "东平侯"
+    },
+    {
+        "name": "庄",
+        "occurrences": 1,
+        "position": "通弟"
+    },
+    {
+        "name": "太",
+        "occurrences": 2,
+        "position": "昌平侯"
+    },
+    {
+        "name": "媭",
+        "occurrences": 2,
+        "position": "女"
+    },
+    {
+        "name": "泽",
+        "occurrences": 2,
+        "position": "营陵侯、刘氏昆弟"
+    },
+    {
+        "name": "恢",
+        "occurrences": 1,
+        "position": "梁王"
+    },
+    {
+        "name": "产",
+        "occurrences": 3,
+        "position": "吕王"
+    },
+    {
+        "name": "禄",
+        "occurrences": 2,
+        "position": "赵王"
+    },
+    {
+        "name": "建",
+        "occurrences": 1,
+        "position": "燕灵王"
+    },
+    {
+        "name": "敖",
+        "occurrences": 1,
+        "position": "宣平侯"
+    },
+    {
+        "name": "友",
+        "occurrences": 1,
+        "position": "赵幽王"
+    },
+    {
+        "name": "强",
+        "occurrences": 1,
+        "position": "淮阳王"
+    },
+    {
+        "name": "武",
+        "occurrences": 1,
+        "position": "壶关侯"
+    },
+    {
+        "name": "义",
+        "occurrences": 1,
+        "position": "恒山王"
+    },
+    {
+        "name": "嘉",
+        "occurrences": 1,
+        "position": "吕王"
+    },
+    {
+        "name": "产",
+        "occurrences": 1,
+        "position": "肃王弟"
+    },
+    {
+        "name": "昌",
+        "occurrences": 1,
+        "position": "卫将军"
+    },
+    {
+        "name": "武",
+        "occurrences": 1,
+        "position": "郎中令"
+    },
+    {
+        "name": "世宗孝武皇帝",
+        "occurrences": 1,
+        "position": "皇帝"
+    },
+    {
+        "name": "太宗孝文皇帝",
+        "occurrences": 1,
+        "position": "皇帝"
+    },
+    {
+        "name": "交",
+        "occurrences": 1,
+        "position": "楚元王"
+    },
+    {
+        "name": "襄",
+        "occurrences": 1,
+        "position": "齐哀王"
+    },
+    {
+        "name": "盎",
+        "occurrences": 3,
+        "position": "中郎将"
+    },
+    {
+        "name": "谊",
+        "occurrences": 2,
+        "position": "博士、太中大夫"
+    },
+    {
+        "name": "山",
+        "occurrences": 1,
+        "position": "颍阴侯骑"
+    },
+    {
+        "name": "平",
+        "occurrences": 1,
+        "position": "陈平"
+    }
+]
