@@ -1,0 +1,157 @@
+[
+    {
+        "name": "太祖高皇帝",
+        "occurrences": 1,
+        "position": "皇帝"
+    },
+    {
+        "name": "项羽",
+        "occurrences": 11,
+        "position": "楚霸王"
+    },
+    {
+        "name": "张良",
+        "occurrences": 4,
+        "position": "谋士"
+    },
+    {
+        "name": "韩信",
+        "occurrences": 9,
+        "position": "齐王/楚王/淮阴侯"
+    },
+    {
+        "name": "彭越",
+        "occurrences": 2,
+        "position": "梁王"
+    },
+    {
+        "name": "刘贾",
+        "occurrences": 1,
+        "position": "将军"
+    },
+    {
+        "name": "周殷",
+        "occurrences": 1,
+        "position": "楚大司马"
+    },
+    {
+        "name": "黥布",
+        "occurrences": 1,
+        "position": "九江兵领袖"
+    },
+    {
+        "name": "灌婴",
+        "occurrences": 2,
+        "position": "骑将"
+    },
+    {
+        "name": "杨喜",
+        "occurrences": 2,
+        "position": "郎中骑"
+    },
+    {
+        "name": "吕马童",
+        "occurrences": 2,
+        "position": "司马"
+    },
+    {
+        "name": "王翳",
+        "occurrences": 1,
+        "position": "中郎骑"
+    },
+    {
+        "name": "吕胜",
+        "occurrences": 1,
+        "position": "郎中"
+    },
+    {
+        "name": "杨武",
+        "occurrences": 1,
+        "position": "郎中"
+    },
+    {
+        "name": "临江王共尉",
+        "occurrences": 1,
+        "position": "临江王"
+    },
+    {
+        "name": "卢绾",
+        "occurrences": 2,
+        "position": "太尉/燕王"
+    },
+    {
+        "name": "刘贾",
+        "occurrences": 1,
+        "position": "将军"
+    },
+    {
+        "name": "魏相国建城侯彭越",
+        "occurrences": 1,
+        "position": "梁王"
+    },
+    {
+        "name": "庄助",
+        "occurrences": 1,
+        "position": "会稽庄助"
+    },
+    {
+        "name": "卫绾",
+        "occurrences": 1,
+        "position": "丞相"
+    },
+    {
+        "name": "叔孙通",
+        "occurrences": 3,
+        "position": "太常"
+    },
+    {
+        "name": "萧何",
+        "occurrences": 6,
+        "position": "丞相/酇侯"
+    },
+    {
+        "name": "曹参",
+        "occurrences": 2,
+        "position": "平阳侯"
+    },
+    {
+        "name": "陈平",
+        "occurrences": 5,
+        "position": "户牖侯/曲逆侯"
+    },
+    {
+        "name": "刘敬",
+        "occurrences": 3,
+        "position": "使者/关内侯/建信侯"
+    },
+    {
+        "name": "雍齿",
+        "occurrences": 1,
+        "position": "什方侯"
+    },
+    {
+        "name": "赵王敖",
+        "occurrences": 1,
+        "position": "赵王"
+    },
+    {
+        "name": "贯高",
+        "occurrences": 1,
+        "position": "赵相"
+    },
+    {
+        "name": "赵午",
+        "occurrences": 1,
+        "position": "赵大臣"
+    },
+    {
+        "name": "代王喜",
+        "occurrences": 1,
+        "position": "代王/郃阳侯"
+    },
+    {
+        "name": "皇子如意",
+        "occurrences": 1,
+        "position": "代王"
+    }
+]

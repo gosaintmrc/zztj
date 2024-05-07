@@ -1,0 +1,102 @@
+[
+    {
+        "name": "太祖高皇帝",
+        "occurrences": 3,
+        "position": "皇帝"
+    },
+    {
+        "name": "贯高",
+        "occurrences": 5,
+        "position": "壁人"
+    },
+    {
+        "name": "刘敬",
+        "occurrences": 2,
+        "position": "使者"
+    },
+    {
+        "name": "建信侯",
+        "occurrences": 1,
+        "position": "侯"
+    },
+    {
+        "name": "吕后",
+        "occurrences": 4,
+        "position": "皇后"
+    },
+    {
+        "name": "刘绾",
+        "occurrences": 1,
+        "position": "丞相"
+    },
+    {
+        "name": "荀悦",
+        "occurrences": 1,
+        "position": "史官"
+    },
+    {
+        "name": "陈豨",
+        "occurrences": 3,
+        "position": "将军"
+    },
+    {
+        "name": "陈平",
+        "occurrences": 2,
+        "position": "丞相"
+    },
+    {
+        "name": "周勃",
+        "occurrences": 2,
+        "position": "将军"
+    },
+    {
+        "name": "吕泽",
+        "occurrences": 1,
+        "position": "建成侯"
+    },
+    {
+        "name": "萧相国",
+        "occurrences": 1,
+        "position": "相国"
+    },
+    {
+        "name": "曹参",
+        "occurrences": 2,
+        "position": "相国"
+    },
+    {
+        "name": "王陵",
+        "occurrences": 1,
+        "position": "将军"
+    },
+    {
+        "name": "灌婴",
+        "occurrences": 1,
+        "position": "将军"
+    },
+    {
+        "name": "张良",
+        "occurrences": 1,
+        "position": "文成侯"
+    },
+    {
+        "name": "樊哙",
+        "occurrences": 1,
+        "position": "将军"
+    },
+    {
+        "name": "季布",
+        "occurrences": 1,
+        "position": "中郎将"
+    },
+    {
+        "name": "叔孙通",
+        "occurrences": 2,
+        "position": "谒者"
+    },
+    {
+        "name": "臣光",
+        "occurrences": 3,
+        "position": "史官"
+    }
+]
